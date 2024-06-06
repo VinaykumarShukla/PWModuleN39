@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* designing the counter container */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0 0 5px black;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* designing the buttons */
+  button {
+    padding: 5px 15px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #displayValue {
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 1px solid black;
+  }
+
+  #box {
+    /* width: 20rem; */
+    background-color: white;
+    cursor: pointer;
+    color: black;
+      /* text-align: center; */
+    /* border-radius: 5px; */
+    font-size: 25px;
+  }
+
+  #box1 {
+    /* width: 20rem; */
+    background-color: white;
+    cursor: pointer;
+    color: black;
+      /* text-align: center; */
+    /* border-radius: 5px; */
+    font-size: 25px;
+  }
+
+  #box2 {
+    /* width: 20rem; */
+    background-color: white;
+    cursor: pointer;
+    color: black;
+      /* text-align: center; */
+    /* border-radius: 5px; */
+    font-size: 25px;
+  }
+
+  #box3 {
+    /* width: 20rem; */
+    background-color: white;
+    cursor: pointer;
+    color: black;
+      /* text-align: center; */
+    /* border-radius: 5px; */
+    font-size: 25px;
+  }
+
+  #display {
+    color:darkorange;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  #input-box {
+    font-size: 25px;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
